@@ -8,11 +8,11 @@
 
 
 
-### Day 2: August 3, 2021 
+### Day 2: August 4, 2021 
 
-**Today's Progress**: How to clone repository, 
+**Today's Progress**: How to clone repository,and get task to create database "apotik"/ pharmacy.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**:Until this day, it's easy, just follow the instruction in the video.
 
 
 ### Day 1: June 27, Monday
