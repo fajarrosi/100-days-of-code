@@ -14,8 +14,20 @@
 
 **Thoughts**:Until this day, it's easy, just follow the instruction in the video.
 
+### Day 3: August 5, 2021 
 
-### Day 1: June 27, Monday
+**Today's Progress**: Learn how to create relation between table in mysql,do the task to create one example relation one to one, one to many, and many to many,and learn query to show all data in database, to show data with some condition (SELECT name, address FROM user where address like "%Jakarta%";), it was amazing day during learning database, database is easy.
+
+**Thoughts**:Until this day, it's easy, just follow the instruction in the video and do the task.
+
+### Day 4: August 6, 2021 
+
+**Today's Progress**: Learn how to create relation between table in mysql, and task to create one example relation one to one, one to many, and many to many,
+
+**Thoughts**:Until this day, it's easy, just follow the instruction in the video and do the task.
+
+
+<!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -23,4 +35,4 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
