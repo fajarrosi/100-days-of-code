@@ -22,9 +22,15 @@
 
 ### Day 4: August 6, 2021 
 
-**Today's Progress**: Learn how to create relation between table in mysql, and task to create one example relation one to one, one to many, and many to many,
+**Today's Progress**: Today, i learn how to update and delete data in database, now i know how to manage data in database. delete query is so easy to remember because simple, and short. the hardest in learn query database is select query if we have to join other table, and put some condition. 
 
-**Thoughts**:Until this day, it's easy, just follow the instruction in the video and do the task.
+**Thoughts**:just follow the instruction in the video and do the task.
+
+### Day 5: August 7, 2021 
+
+**Today's Progress**: Today, i learn  
+
+**Thoughts**:just follow the instruction in the video and do the task.
 
 
 <!-- ### Day 1: June 27, Monday
