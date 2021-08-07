@@ -28,7 +28,7 @@
 
 ### Day 5: August 7, 2021 
 
-**Today's Progress**: Today, i learn  
+**Today's Progress**: Today, i learn how to create login feature in vue js, simple login. 
 
 **Thoughts**:just follow the instruction in the video and do the task.
 
