@@ -31,6 +31,16 @@
 **Today's Progress**: Today, i learn how to create login feature in vue js, simple login. 
 
 **Thoughts**:just follow the instruction in the video and do the task.
+### Day 6: August 8, 2021 
+
+**Today's Progress**: Today, i still learn login feature in vue js. 
+
+**Thoughts**:login feature is not easy, i think just follow the instruction and code run well but i got error .
+### Day 7: August 9, 2021 
+
+**Today's Progress**: Today, i still learn login feature in vue js. 
+
+**Thoughts**:just follow the instruction in the video and do the task.
 
 
 <!-- ### Day 1: June 27, Monday
