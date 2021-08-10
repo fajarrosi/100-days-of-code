@@ -38,7 +38,12 @@
 **Thoughts**:login feature is not easy, i think just follow the instruction and code run well but i got error .
 ### Day 7: August 9, 2021 
 
-**Today's Progress**: Today, i still learn login feature in vue js. 
+**Today's Progress**: Today, i learn query sql about join table, inner join, left join, right join and full join. 
+
+**Thoughts**:just follow the instruction in the video and do the task.
+### Day 8: August 10, 2021 
+
+**Today's Progress**: Today, i learn query sql about join table, inner join, left join, right join and full join. 
 
 **Thoughts**:just follow the instruction in the video and do the task.
 
