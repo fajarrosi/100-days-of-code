@@ -43,9 +43,25 @@
 **Thoughts**:just follow the instruction in the video and do the task.
 ### Day 8: August 10, 2021 
 
-**Today's Progress**: Today, i learn query sql about join table, inner join, left join, right join and full join. 
+**Today's Progress**: Today, i learn query sql about how to join multiple table
 
 **Thoughts**:just follow the instruction in the video and do the task.
+### Day 9: August 11, 2021 
+
+**Today's Progress**: Today, holiday, nothing to do, free from task
+
+**Thoughts**:just follow the instruction in the video and do the task.
+### Day 10: August 12, 2021 
+
+**Today's Progress**: Today, doing task quiz query sql 
+
+**Thoughts**:just follow the instruction in the video and do the task.
+### Day 11: August 13, 2021 
+
+**Today's Progress**: Today, doing task connect database to php, and crud php
+
+**Thoughts**:just follow the instruction in the video and do the task.
+
 
 
 <!-- ### Day 1: June 27, Monday
