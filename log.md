@@ -61,6 +61,22 @@
 **Today's Progress**: Today, doing task connect database to php, and crud php
 
 **Thoughts**:just follow the instruction in the video and do the task.
+### Day 12: August 14, 2021 
+
+**Today's Progress**: crud php
+
+**Thoughts**:just follow the instruction in the video and do the task.
+### Day 13: August 15, 2021 
+
+**Today's Progress**: crud php
+
+**Thoughts**:just follow the instruction in the video and do the task.
+
+### Day 14: August 16, 2021 
+
+**Today's Progress**: crud php
+
+**Thoughts**:just follow the instruction in the video and do the task.
 
 
 
