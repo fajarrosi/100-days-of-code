@@ -78,6 +78,12 @@
 
 **Thoughts**:just follow the instruction in the video and do the task.
 
+### Day 15: August 17, 2021 
+
+**Today's Progress**: crud php
+
+**Thoughts**:just follow the instruction in the video and do the task.
+
 
 
 <!-- ### Day 1: June 27, Monday
