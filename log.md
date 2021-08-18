@@ -83,6 +83,11 @@
 **Today's Progress**: crud php
 
 **Thoughts**:just follow the instruction in the video and do the task.
+### Day 16: August 18, 2021 
+
+**Today's Progress**: add bootstrap, ,vue component basic, event handling vue, and install laravel
+
+**Thoughts**:just follow the instruction in the video and do the task.
 
 
 
