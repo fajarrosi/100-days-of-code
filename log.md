@@ -85,7 +85,12 @@
 **Thoughts**:just follow the instruction in the video and do the task.
 ### Day 16: August 18, 2021 
 
-**Today's Progress**: add bootstrap, ,vue component basic, event handling vue, and install laravel
+**Today's Progress**: add bootstrap, 
+
+**Thoughts**:just follow the instruction in the video and do the task.
+### Day 17: August 19, 2021 
+
+**Today's Progress**: vue component basic, event handling vue, and install laravel
 
 **Thoughts**:just follow the instruction in the video and do the task.
 
