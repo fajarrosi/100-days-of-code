@@ -90,7 +90,27 @@
 **Thoughts**:just follow the instruction in the video and do the task.
 ### Day 17: August 19, 2021 
 
-**Today's Progress**: vue component basic, event handling vue, and install laravel
+**Today's Progress**: vue component basic, event handling vue
+
+**Thoughts**:just follow the instruction in the video and do the task.
+### Day 18: August 20, 2021 
+
+**Today's Progress**: install laravel
+
+**Thoughts**:just follow the instruction in the video and do the task.
+### Day 19: August 23, 2021 
+
+**Today's Progress**:authentication, template, controller, db, model, migration
+
+**Thoughts**:just follow the instruction in the video and do the task.
+### Day 20: August 24, 2021 
+
+**Today's Progress**:route and view
+
+**Thoughts**:just follow the instruction in the video and do the task.
+### Day 21: August 25, 2021 
+
+**Today's Progress**:eloquent relationship, query builder, crud tanpa vue
 
 **Thoughts**:just follow the instruction in the video and do the task.
 
