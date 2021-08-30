@@ -108,9 +108,22 @@
 **Today's Progress**:route and view
 
 **Thoughts**:just follow the instruction in the video and do the task.
+
 ### Day 21: August 25, 2021 
 
 **Today's Progress**:eloquent relationship, query builder, crud tanpa vue
+
+**Thoughts**:just follow the instruction in the video and do the task.
+
+### Day 22: August 26, 2021 
+
+**Today's Progress**:crud vue part 1
+
+**Thoughts**:just follow the instruction in the video and do the task.
+
+### Day 23: August 27, 2021 
+
+**Today's Progress**:crud vue part 2
 
 **Thoughts**:just follow the instruction in the video and do the task.
 
