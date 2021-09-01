@@ -126,6 +126,31 @@
 **Today's Progress**:crud vue part 2
 
 **Thoughts**:just follow the instruction in the video and do the task.
+### Day 24: August 28, 2021 
+
+**Today's Progress**:Plugin faker dan seeder
+
+**Thoughts**:just follow the instruction in the video and do the task.
+### Day 25: August 29, 2021 
+
+**Today's Progress**:plugin faker dan seeder
+
+**Thoughts**:just follow the instruction in the video and do the task.
+### Day 26: August 30, 2021 
+
+**Today's Progress**:plugin faker dan seeder
+
+**Thoughts**:just follow the instruction in the video and do the task.
+### Day 27: August 31, 2021 
+
+**Today's Progress**:plugin faker dan seeder
+
+**Thoughts**:just follow the instruction in the video and do the task.
+### Day 28: Sept 1, 2021 
+
+**Today's Progress**:v-model vue searching
+
+**Thoughts**:just follow the instruction in the video and do the task.
 
 
 
